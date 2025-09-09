@@ -33,7 +33,6 @@
 ## 📫 Onde me encontrar
 - 🌐 [LinkedIn](https://linkedin.com/in/seu-linkedin)  
 - 📧 joao.ewerton.tec@gmail.com  
-- 💼 [Portfólio](https://seu-portfolio.com) _(se já tiver online)_  
 
 ---
 ⭐ Se curtir algum projeto, não esqueça de deixar uma estrela!
