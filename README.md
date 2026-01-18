@@ -17,8 +17,8 @@
 ---
 
 ## 📌 Projetos em destaque
-🔹 [To-Do List SPA (React + LocalStorage)](https://github.com/Joao-Ewerton93/todo-list-spa-react)  
 🔹 [Portfólio Pessoal (HTML, CSS, JS)](https://github.com/Joao-Ewerton93/portfolio-pessoal)  
+🔹 [Controle de Gastos (HTML, CSS, JS)]()
 🔹 [Consumo de API de Clima (JavaScript)](https://github.com/Joao-Ewerton93/api-clima-js)  
 🔹 [CRUD de Usuários (Node.js + SQL)](https://github.com/Joao-Ewerton93/crud-usuarios-node)  
 
