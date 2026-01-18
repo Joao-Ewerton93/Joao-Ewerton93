@@ -18,7 +18,7 @@
 
 ## 📌 Projetos em destaque
 🔹 [Portfólio Pessoal (HTML, CSS, JS)](https://github.com/Joao-Ewerton93/portfolio-pessoal)  
-🔹 [Controle de Gastos (HTML, CSS, JS)]()
+🔹 [Controle de Gastos (HTML, CSS, JS)](https://github.com/Joao-Ewerton93/Controle-gastos-dashboard)
 🔹 [Consumo de API de Clima (JavaScript)](https://github.com/Joao-Ewerton93/api-clima-js)  
 🔹 [CRUD de Usuários (Node.js + SQL)](https://github.com/Joao-Ewerton93/crud-usuarios-node)  
 
