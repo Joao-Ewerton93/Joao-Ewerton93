@@ -56,6 +56,8 @@
 
 | Projeto | Descrição | Tecnologias |
 |--------|-----------|-------------|
+| [🌐 Site Esllanny Farias](https://github.com/Joao-Ewerton93/site-esllanny-farias) | Site institucional desenvolvido para cliente | HTML, CSS, JavaScript |
+| [🌐 Site Maira](https://github.com/Joao-Ewerton93/site-maira) | Site pessoal desenvolvido para cliente | HTML, CSS |
 | [🛒 Sistema Suprimentos](https://github.com/Joao-Ewerton93/sistema-suprimentos) | Sistema de controle de suprimentos | TypeScript, Node.js |
 | [🎮 Jogo da Velha](https://github.com/Joao-Ewerton93/Jogo-da-Velha) | Jogo da velha interativo no navegador | HTML, CSS, JavaScript |
 
